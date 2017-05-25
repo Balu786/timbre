@@ -1,0 +1,86 @@
+[04-Feb-2017 09:58:38 America/Chicago] PHP Fatal error:  Class 'model' not found in /home/abhinavtraining/public_html/api/retinapp/api_index2.php on line 43
+[04-Feb-2017 09:59:39 America/Chicago] PHP Fatal error:  Cannot redeclare class DatabaseClass in /home/abhinavtraining/public_html/api/retinapp/dc.php on line 17
+[06-Feb-2017 12:19:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/abhinavtraining/public_html/api/retinapp/details.php on line 39
+[06-Feb-2017 12:25:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 72
+[06-Feb-2017 12:57:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 68
+[06-Feb-2017 13:01:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/abhinavtraining/public_html/api/retinapp/details.php on line 64
+[06-Feb-2017 13:02:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 68
+[06-Feb-2017 13:06:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 68
+[07-Feb-2017 12:14:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 71
+[08-Feb-2017 00:04:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 71
+[08-Feb-2017 00:33:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 71
+[08-Feb-2017 00:36:26 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[08-Feb-2017 00:37:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 71
+[08-Feb-2017 01:53:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 71
+[08-Feb-2017 02:15:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abhinavtraining/public_html/api/retinapp/dc.php:697) in /home/abhinavtraining/public_html/api/retinapp/details.php on line 71
+[10-Feb-2017 01:45:45 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 03:55:58 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 03:56:39 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 12:15:35 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 12:15:43 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 12:18:11 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 12:19:38 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 22:30:43 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[14-Feb-2017 22:30:43 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 22:31:07 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[14-Feb-2017 22:31:07 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 22:32:46 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[14-Feb-2017 22:32:46 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 22:33:41 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[14-Feb-2017 22:33:41 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 22:34:02 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[14-Feb-2017 22:34:02 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 22:35:39 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[14-Feb-2017 22:35:39 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 22:38:25 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[14-Feb-2017 22:45:54 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 01:43:11 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 01:43:11 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 08:35:07 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 22:26:56 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 22:27:48 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 23:29:08 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 23:44:03 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Feb-2017 23:44:03 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 23:44:20 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Feb-2017 23:44:20 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 23:45:05 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Feb-2017 23:45:05 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 23:45:15 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Feb-2017 23:45:15 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 23:45:51 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Feb-2017 23:45:51 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[15-Feb-2017 23:45:55 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Feb-2017 23:45:55 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 03:22:07 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 03:22:28 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 03:22:50 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 03:25:33 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 03:25:55 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 03:26:17 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 10:31:52 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 10:32:11 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 10:32:31 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 10:40:05 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 10:43:46 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[16-Feb-2017 11:30:52 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 7
+[21-Feb-2017 11:00:16 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 9
+[21-Feb-2017 11:00:18 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 9
+[21-Feb-2017 11:01:41 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 9
+[21-Feb-2017 11:02:13 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, string given in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 9
+[21-Feb-2017 11:03:38 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_query() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 28
+[21-Feb-2017 11:05:04 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 28
+[21-Feb-2017 11:05:04 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_close() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 33
+[21-Feb-2017 11:06:00 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 28
+[21-Feb-2017 11:06:00 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_close() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 33
+[21-Feb-2017 11:07:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 28
+[21-Feb-2017 11:07:20 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_close() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 33
+[21-Feb-2017 11:08:21 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 28
+[21-Feb-2017 11:08:21 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_close() in /home/abhinavtraining/public_html/api/retinapp/upload.php on line 33
+[21-Feb-2017 22:20:01 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: To number: +91544659445451, is not a mobile number' in /home/abhinavtraining/public_html/api/retinapp/twilio-php-master/Twilio/Version.php:85
+Stack trace:
+#0 /home/abhinavtraining/public_html/api/retinapp/twilio-php-master/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/abhinavtraining/public_html/api/retinapp/twilio-php-master/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC863...', Array, Array)
+#2 /home/abhinavtraining/public_html/api/retinapp/details.php(66): Twilio\Rest\Api\V2010\Account\MessageList->create('+91544659445451', Array)
+#3 {main}
+  thrown in /home/abhinavtraining/public_html/api/retinapp/twilio-php-master/Twilio/Version.php on line 85
